@@ -9,6 +9,13 @@
 - **Databases:** MongoDB, PostgreSQL, ...
 - **Tools:** Git, Docker, ...
 
+---
+
+## 🌐 Find Me Online
+
+- 📚 [Amazon Author Page](https://www.amazon.in/stores/Pranav-Kumar/author/B0DRVVGJTM)
+- 🌐 [Personal Website](https://pranavlpin.com/)
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavlpin&theme=dark" alt="pranavlpin's Streak Stats" />
 </p>
